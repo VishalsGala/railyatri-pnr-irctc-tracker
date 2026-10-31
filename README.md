@@ -1,1 +1,1 @@
-# irctc-pnr-tracker
+# pnr-tracker
